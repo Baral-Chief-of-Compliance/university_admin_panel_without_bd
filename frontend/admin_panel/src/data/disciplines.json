@@ -1,0 +1,39 @@
+[
+    {
+        "name_dis": "Базы данных",
+        "num_dis": 1,
+        "forms_of_work": [
+            {
+                "name_control": "РГР",
+                "num_dis": 1,
+                "num_work": 1
+            },
+            {
+                "name_control": "Экзамен",
+                "num_dis": 1,
+                "num_work": 2
+            }
+        ]
+    },
+    {
+        "name_dis": "Основы математического анализа",
+        "num_dis": 2,
+        "forms_of_work": [
+            {
+                "name_control": "РГР",
+                "num_dis": 2,
+                "num_work": 1
+            },
+            {
+                "name_control": "Самостоятельная работа №1",
+                "num_dis": 2,
+                "num_work": 2
+            },
+            {
+                "name_control": "Самостоятельная работа №2",
+                "num_dis": 2,
+                "num_work": 3
+            }
+        ]
+    }
+]
